@@ -1,4 +1,4 @@
-<h4 color="#fff">#NextLevelWeek #4<h4/> <strong>#NeverStopLearn<strong/>
+<h4 color="#fff">#NextLevelWeek #4<h4/>
 
 <a href="https://app.rocketseat.com.br/">Rocketseat<a/>
 <hr>
